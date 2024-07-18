@@ -44,7 +44,17 @@ For more details on how to setup a MetaMask wallet, visit [this link](https://co
 
 ## Getting Testnet Faucets💧
 
-(TODO: Add detailed steps on getting testnet faucets)
+### Step-by-Step Guide to Get Your Testnet Faucet:
+
+1. Go to [this link](https://faucet.lamproslabs.io/) to access the faucet.💸
+2. Click on "Connect Wallet" and select your wallet (e.g., MetaMask).🔗
+3. Click on "Generate Tweet for Me" and share the tweet as directed.🐦
+4. Copy the tweet link and paste it in the provided field, then click "Next."🔗
+5. Join the required Discord server by clicking on the provided link, then click "Next."💬
+6. Fill out the captcha to verify you're not a robot.✅
+7. Click on the "Claim 0.03 ETH" button to receive your testnet ETH.💸
+
+Whooaa! 🎉 You now have the faucet ETH in your address.
 
 ## Deploying an NFT Smart Contract 🖼️
 
